@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Miko</h1>
-<h3 align="left">Aspiring backend developer</h3>
+![](https://github.com/koushin07/koushin07/blob/main/github-header-image.png)
+
 
 - 🔭 I’m currently working on [spring eris](https://github.com/koushin07/spring_eris)
 
@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **canaresmiko3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
