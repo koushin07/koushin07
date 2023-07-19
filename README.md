@@ -1,5 +1,6 @@
 ![](https://github.com/koushin07/koushin07/blob/main/github-header-image.png)
 
+- 💥 my previous project [ERIS: Equipment Resource Information System for Region X](https://github.com/koushin07/laravel.eris)
 
 - 🔭 I’m currently working on [spring eris](https://github.com/koushin07/spring_eris)
 
