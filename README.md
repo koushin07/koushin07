@@ -42,7 +42,7 @@
 ## 💬 Let's Connect
 
 📫 Feel free to reach out or explore my projects here!  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](www.linkedin.com/in/miko-cañares-772525292) • [GitHub](https://github.com/koushin07) 
 
 ---
 
