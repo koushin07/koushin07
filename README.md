@@ -1,64 +1,29 @@
-# 👋 Hi, I'm Miko Canares
+# Miko Cañares
 
-🎯 **Backend Developer | Full Stack Developer | Software QA Analyst**
+**Full-stack engineer — I build production systems for regulated and data-heavy industries.**
 
-### I build systems that replace manual work.
+- 🏗️ **Full-Stack Developer at Atlas Geotech**, building the platform behind California's legally required natural hazard disclosure reports — property checked against dozens of government datasets, finished legal document generated automatically.
+- 🧪 Two years of **enterprise ERP quality assurance** before development work, so testing and reliability are habits rather than afterthoughts.
+- 🧰 Mostly **Python/FastAPI**, **TypeScript/Next.js**, **PostgreSQL** and **AWS**.
+- 📍 Misamis Oriental, Philippines — open to remote contract and full-time work.
+- 📫 **[ikoy.vercel.app](https://ikoy.vercel.app)** · canaresmiko3@gmail.com
 
-💼 Currently working as **Analyst II – ERP Product Application** for a system that handles **warehouse, shipping, and manufacturing**.
-🛠️ Passionate about building clean, scalable systems and ensuring quality through rigorous testing.
-🌐 Portfolio: **[ikoy.vercel.app](https://ikoy.vercel.app)** &nbsp;•&nbsp; 💼 Hire me on **[Upwork](https://www.upwork.com/freelancers/~yourprofileid)**
-
----
-
-## 🧰 Tech Stack & Tools
-
-**Languages & Frameworks:**
-- `C#`, `ASP.NET Core`, `Entity Framework`
-- `Java`, `Spring Framework`
-- `PHP`, `Laravel`
-- `JavaScript`, `TypeScript`, `React`, `Angular`
-
-**Database & Backend:**
-- `SQL`, `MySQL`, `PostgreSQL`, `EF Core`
-- `RESTful APIs`, `Webhooks`, `JWT`, `SignalR`
-
-**Testing & QA:**
-- Manual and automation testing for **ERP systems**
-- `Selenium`, `NUnit`, `Postman`, `Swagger`
-- Patch testing for OS/server-side applications
-
-**Tools & Platforms:**
-- `Jira`, `Panaya`, `ClickUp`, `Slack`
-- `Shopify Storefront API`, `Meta Pixel`, `Facebook Business Manager`
-- `Git`, `GitHub`, `CI/CD`, `Octoparse`
+[![Tech](https://skillicons.dev/icons?i=ts,python,react,nextjs,fastapi,postgres,aws,docker,laravel,vue&theme=dark)](https://ikoy.vercel.app)
 
 ---
 
-## 📦 Projects & Contributions
+### Worth a look
 
-- 🏭 Developed and maintained backend services for supply chain modules (inventory, shipments, item history).
-- 🛒 Integrated **Shopify APIs** and implemented **Meta Pixel** tracking for React + Shopify storefronts.
-- 🔐 Built secure and scalable RESTful APIs using ASP.NET and Laravel.
-- 🧪 Led patch testing automation, improving ERP software reliability.
+**Hazard disclosure platform** *(work)* — Statutory report generation end to end, from raw government geodata to a delivered legal document. Also built the customer portal escrow officers use to order them.
 
-> 👉 Check out my pinned repositories below for live code and projects.
+**Legal document SaaS** *(under NDA)* — Six internal systems: document generation, per-buyer copy protection, court-record lead classification, and scheduling.
 
----
+**[ERIS](https://github.com/koushin07/ERIS)** — Emergency resource tracking and dispatch for regional responders, with movement audit trails and role-based access.
 
-## 📊 GitHub Stats
-
-![Miko's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushin07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushin07&layout=compact&theme=tokyonight&hide_border=true)
+*More in the pinned repos below, and written up properly at [ikoy.vercel.app](https://ikoy.vercel.app).*
 
 ---
 
-## 💬 Let's Connect
-
-📫 Have a project to build or a workflow that's eating your time? Let's talk.
-
-🌐 [Portfolio](https://ikoy.vercel.app) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/miko-cañares-772525292) &nbsp;•&nbsp; 🐙 [GitHub](https://github.com/koushin07) &nbsp;•&nbsp; 📧 canaresmiko3@gmail.com
-
----
-
-_"Always learning, always building."_
+🌐 [Portfolio](https://ikoy.vercel.app) ·
+💼 [LinkedIn](https://www.linkedin.com/in/miko-canares-772525292) ·
+📧 [Email](mailto:canaresmiko3@gmail.com)
