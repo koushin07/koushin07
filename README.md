@@ -14,7 +14,7 @@
 
 ### Worth a look
 
-**Hazard disclosure platform** *(work)* — Statutory report generation end to end, from raw government geodata to a delivered legal document. Also built the customer portal escrow officers use to order them.
+**Hazard disclosure platform** — Statutory report generation end to end, from raw government geodata to a delivered legal document. Also built the customer portal escrow officers use to order them.
 
 **Legal document SaaS** *(under NDA)* — Six internal systems: document generation, per-buyer copy protection, court-record lead classification, and scheduling.
 
